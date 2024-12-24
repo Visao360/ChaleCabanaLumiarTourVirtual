@@ -1,0 +1,38 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_F6DABD6A_F860_842B_41D2_8DC66AE10506.source = https://api.whatsapp.com/send?phone=5522999105054&text=Ol%C3%A1!!%20Seja%20bem%20vindo%20ao%20Chal%C3%A9%20Cabana%20Lumiar%20em%20Nova%20Friburgo%20RJ
+LinkBehaviour_ED1B64CB_F860_8468_41EC_A6937068D8CD.source = https://api.whatsapp.com/send?phone=5522999105054&text=Ol%C3%A1!!%20Seja%20bem%20vindo%20ao%20Chal%C3%A9%20Cabana%20Lumiar%20em%20Nova%20Friburgo%20RJ
+LinkBehaviour_ED1B24CB_F860_8468_41ED_0A7144A74477.source = https://maps.google.com/?cid=12405667142331815341
+LinkBehaviour_F50759CF_F860_8C68_41EA_0E695219CDDE.source = https://maps.google.com/?cid=12405667142331815341
+LinkBehaviour_F7216443_F860_8458_41E9_21A21FD05368.source = https://www.instagram.com/chale_cabanalumiar/
+LinkBehaviour_ED1DE4CB_F860_8468_41D8_94E81831B680.source = https://www.instagram.com/chale_cabanalumiar/
+
+## Media
+
+### Audio
+audiores_EA3DF6DD_F860_8469_41E8_DFA5873D2C02.mp3Url = media/audio_EABA1A2A_F863_8C2B_41E4_74B83B536432_pt.mp3
+
+### Title
+panorama_F38B898B_F860_8CE9_41B5_5BDDE6FB5B5C.label = 20241118_180317_163
+
+## Skin
+
+### Image
+Image_F5A55DEA_F861_8428_41E7_28C01E3FA68C_mobile.url = skin/Image_F5A55DEA_F861_8428_41E7_28C01E3FA68C_mobile_pt.png
+Image_F5A55DEA_F861_8428_41E7_28C01E3FA68C.url = skin/Image_F5A55DEA_F861_8428_41E7_28C01E3FA68C_pt.png
+Image_F5B49BDB_F861_8C68_41E4_A4B0C84D917D_mobile.url = skin/Image_F5B49BDB_F861_8C68_41E4_A4B0C84D917D_mobile_pt.png
+Image_F5B49BDB_F861_8C68_41E4_A4B0C84D917D.url = skin/Image_F5B49BDB_F861_8C68_41E4_A4B0C84D917D_pt.png
+Image_F5D467D7_F860_8478_41EB_B206542913D3_mobile.url = skin/Image_F5D467D7_F860_8478_41EB_B206542913D3_mobile_pt.png
+Image_F5D467D7_F860_8478_41EB_B206542913D3.url = skin/Image_F5D467D7_F860_8478_41EB_B206542913D3_pt.png
+Image_F62264AC_F861_8428_41EA_CE96E38857B0_mobile.url = skin/Image_F62264AC_F861_8428_41EA_CE96E38857B0_mobile_pt.png
+Image_F62264AC_F861_8428_41EA_CE96E38857B0.url = skin/Image_F62264AC_F861_8428_41EA_CE96E38857B0_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Chalé Cabana 
